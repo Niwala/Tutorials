@@ -1,0 +1,26 @@
+{
+    "tutoInfos": [
+        {
+            "name": "QuickSetup",
+            "description": "Learn how to quickly setup Aura 3.",
+            "version": 1,
+            "texture": {
+                "instanceID": 0
+            },
+            "pack": {
+                "instanceID": 0
+            }
+        },
+        {
+            "name": "Scattering",
+            "description": "A lot of Scattering Stuff",
+            "version": 3,
+            "texture": {
+                "instanceID": 0
+            },
+            "pack": {
+                "instanceID": 0
+            }
+        }
+    ]
+}
